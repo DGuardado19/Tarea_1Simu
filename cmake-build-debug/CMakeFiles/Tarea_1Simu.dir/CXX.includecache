@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David/CLionProjects/Tarea#1Simu/display_tools.h
+
+C:/Users/David/CLionProjects/Tarea#1Simu/main.cpp
+iostream
+-
+math_tools.h
+C:/Users/David/CLionProjects/Tarea#1Simu/math_tools.h
+display_tools.h
+C:/Users/David/CLionProjects/Tarea#1Simu/display_tools.h
+
+C:/Users/David/CLionProjects/Tarea#1Simu/math_tools.h
+vector
+-
+math.h
+C:/Users/David/CLionProjects/Tarea#1Simu/math.h
+stdlib.h
+C:/Users/David/CLionProjects/Tarea#1Simu/stdlib.h
+
